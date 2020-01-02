@@ -18,6 +18,6 @@
 - atemp : 체감 기온
 - humidity
 - windspeed
-- casual : 비회원 렌탈 수
-- registered : 회원 렌탈 수
-- count : 전체 렌탈 수
+- casual : 비회원 렌탈 수(train에만)
+- registered : 회원 렌탈 수(train에만)
+- count : 전체 렌탈 수()
