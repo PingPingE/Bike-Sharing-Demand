@@ -21,3 +21,7 @@
 - casual : 비회원 렌탈 수(train에만)
 - registered : 회원 렌탈 수(train에만)
 - count : 전체 렌탈 수(train에만)
+
+----------------------------
+### Bike.ipynb
+- 예전 
