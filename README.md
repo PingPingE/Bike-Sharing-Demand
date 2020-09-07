@@ -1,6 +1,6 @@
 *만약 위 파일의 로딩에 실패한다면
 
-- [Bike1](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike1.ipynb)
+- [Bike](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike.ipynb)
 - [Bike2](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike2.ipynb)
 
 # Bike-Sharing-Demand
