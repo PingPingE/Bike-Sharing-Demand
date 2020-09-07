@@ -1,6 +1,9 @@
-*만약 위 파일의 로딩에 실패한다면-> https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike2.ipynb
-# Bike-Sharing-Demand
+*만약 위 파일의 로딩에 실패한다면
 
+- [Bike1](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike1.ipynb)
+- [Bike2](https://nbviewer.jupyter.org/github/PingPingE/Kaggle-Bike_Sharing_Demand/blob/master/Bike2.ipynb)
+
+# Bike-Sharing-Demand
 예전에 RMSLE로 평가한 결과, 0.38665를 기록했다.(0에 가까울수록 좋은 결과)
 좀 더 데이터, 회귀 모델, 평가 지표에 대해 분석하고 공부하고자한다.
 
